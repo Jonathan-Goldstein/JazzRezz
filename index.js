@@ -11,7 +11,7 @@ app.use(express.json());
 // DATA
 const rezzy = [{}];
 
-// Basic 
 
 
+//LISTENING
 app.listen(PORT, () => console.log('App listening on Port: 3001'))
